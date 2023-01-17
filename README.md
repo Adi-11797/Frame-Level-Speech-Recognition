@@ -7,7 +7,7 @@
 
 In this project, we take our knowledge of feedforward neural networks and apply it to a more useful task than recognizing handwritten digits; speech recognition. 
 
-Task : to generate predictions for the phonemes of the test set. 
+<u>Task</u> : to generate predictions for the phonemes of the test set. 
 
 Evaluation Metric : based on the accuracy of the prediction of the phoneme state labels for each frame in the test set. 
 
