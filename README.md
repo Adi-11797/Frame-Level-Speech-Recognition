@@ -2,6 +2,10 @@
 
 # Part 1
 
+In Part 1, we create the core components of multilayer perceptrons: linear layers, activations, loss functions, and batch normalization. 
+We implement these classes in MyTorch, our own deep learning library inspired by PyTorch.
+The task is to specifically implement the mathematics into code, and understand how all the components are related. 
+(<ins>Note</ins>: we use "numpy" and no other python library)
 
 # Part 2 : Frame Level Classification of Speech
 
