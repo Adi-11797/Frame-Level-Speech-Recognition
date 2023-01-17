@@ -1,6 +1,6 @@
 # Frame-Level-Speech-Recognition
 
-# Part 1
+# Part 1 : Creating a basic MLP
 
 In Part 1, we create the core components of multilayer perceptrons: linear layers, activations, loss functions, and batch normalization. 
 We implement these classes in MyTorch, our own deep learning library inspired by PyTorch.
