@@ -28,10 +28,11 @@ In this project, we take our knowledge of feedforward neural networks and apply 
 
 • Phoneme state labels are not given
 
-Our objective is to identify the phoneme state label for each frame in the test data set. It is important to note that utterances are of variable length.
-
 
 ![1p2_2](https://user-images.githubusercontent.com/92863991/212860863-96c2707c-54da-4e62-8fd1-3346584f9441.png)
+
+
+Our objective is to identify the phoneme state label for each frame in the test data set. It is important to note that utterances are of variable length.
 
 <ins>Workflow</ins> : 
 
